@@ -163,5 +163,10 @@ namespace ProgettoDiProva
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Questo è un messaggio di prova");
+        }
     }
 }
