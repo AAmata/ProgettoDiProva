@@ -1,0 +1,10 @@
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\bin\Debug\ProgettoDiProva.exe.config
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\bin\Debug\ProgettoDiProva.exe
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\bin\Debug\ProgettoDiProva.pdb
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\obj\Debug\ProgettoDiProva.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\obj\Debug\ProgettoDiProva.Form1.resources
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\obj\Debug\ProgettoDiProva.Form2.resources
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\obj\Debug\ProgettoDiProva.Properties.Resources.resources
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\obj\Debug\ProgettoDiProva.csproj.GenerateResource.Cache
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\obj\Debug\ProgettoDiProva.exe
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\ProgettoDiProva\obj\Debug\ProgettoDiProva.pdb
